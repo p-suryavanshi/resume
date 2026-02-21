@@ -12,8 +12,8 @@ This is a resume project created to showcase various projects and skills of the 
 
 ## Developer Information
 
-- **Name:** P. Suryavanshi
+- **Name:** Pavan Suryavanshi
 - **GitHub:** [p-suryavanshi](https://github.com/p-suryavanshi)
-- **Email:** p-suryavanshi@example.com
+- **Email:** pavans6350@gmail.com
 
 Feel free to reach out for any questions or collaborations!
